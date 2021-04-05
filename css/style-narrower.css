@@ -99,6 +99,7 @@
 			text-transform: uppercase;
 			color: #fff;
 			z-index: 1;
+			margin-left:28px;
 		}
 
 		#titleBar .toggle {
