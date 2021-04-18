@@ -1,4 +1,10 @@
 $(function () {
+
+    //$("#header").hide();
+    $("#header").slideUp(1000);
+    $("#header").slideDown(2000);
+   
+
     $("#bannerh2").hide();
     $("#bannerh2").fadeIn(6000);
 
