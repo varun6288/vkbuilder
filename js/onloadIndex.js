@@ -1,9 +1,7 @@
 $(function () {
     //$("#maindiv").hide();
-     $("#maindiv").slideUp(1000).slideDown(1000);
-    //$("#maindiv").slideDown(2000);
+    $("#maindiv").slideUp(1000).slideDown(1000);
    
-
     $("#bannerh2").hide();
     $("#bannerh2").fadeIn(6000);
 
@@ -14,7 +12,7 @@ $(function () {
         "margin-bottom": "+=20px"
     });
 
-
+    $("#maindiv").focus();
     //$("#bannerp1").fadeIn(2000);
 
    
