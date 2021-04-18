@@ -1,8 +1,8 @@
 $(function () {
 
     //$("#header").hide();
-    $("#header").slideUp(1000);
-    $("#header").slideDown(2000);
+    $("#maindiv").slideUp(1000).slideDown(2000);
+    //$("#header").slideDown(2000);
    
 
     $("#bannerh2").hide();
